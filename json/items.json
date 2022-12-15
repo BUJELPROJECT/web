@@ -18,5 +18,15 @@
         "name": "BINNERS",
         "image": "images/image4.jpg",
         "link": "https://t.me/Just_Bins"
+	},
+	{
+        "name": "SAWERIA",
+        "image": "images/image5.jpg",
+        "link": "https://saweria.co/bujel"
+	},
+	{
+        "name": "PAYPAL",
+        "image": "images/image6.jpg",
+        "link": "https://paypal.me/bujeldev"
 	}
 ]

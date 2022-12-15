@@ -28,5 +28,11 @@
         "color": "#7289da",
         "icon": "google",
         "url": "https://nicecloud.tech"
+	},
+	{
+        "name": "YouTube",
+        "color": "#ff0000",
+        "icon": "youtube",
+        "url": "https://youtube.com/@BUJELPROJECT"
 	}
 ]
