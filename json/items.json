@@ -1,0 +1,22 @@
+[
+    {
+        "name": "CHANNEL",
+        "image": "images/image1.jpg",
+        "link": "https://t.me/BUJELPROJECT"
+	},
+    {
+        "name": "APK MOD",
+        "image": "images/image2.jpg",
+        "link": "http://t.me//BUJELMOD"
+	},
+    {
+        "name": "STORE",
+        "image": "images/image3.jpg",
+        "link": "https://t.me/BUJEL_STORE"
+	},
+    {
+        "name": "BINNERS",
+        "image": "images/image4.jpg",
+        "link": "https://t.me/Just_Bins"
+	}
+]
