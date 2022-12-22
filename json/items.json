@@ -28,5 +28,10 @@
         "name": "PAYPAL",
         "image": "images/image6.jpg",
         "link": "https://paypal.me/bujeldev"
+	},
+	{
+        "name": "DANA",
+        "image": "images/image7.jpg",
+        "link": "https://bit.ly/BUJELXDANA"
 	}
 ]
